@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
     var divs = new Array();
     divs[0] = "errFirst";
     divs[1] = "errLast";
@@ -62,4 +62,3 @@
           if(count == 6)
           	document.getElementById("errFinal").innerHTML = "All the data you entered is correct!!!";
         }
-   </script>
